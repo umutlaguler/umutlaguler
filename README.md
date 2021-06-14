@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="tenor.gif" width='40' align="left"/><h2>Hey there! I'm Umut</h2>
+<img alt="Night Coding" src="https://media1.tenor.com/images/6bf658d3c1df80990a0817b417b78155/tenor.gif?itemid=10503435" width='40' align="left"/><h2>Hey there! I'm Umut</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Umut -->
 
