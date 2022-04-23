@@ -7,7 +7,7 @@
 
  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
  &nbsp;I'm currently studying Computer Science at the Alparslan Türkeş Science and Technology University.\
- &nbsp;I have been developing mobile applications for over 1 year.\
+ &nbsp;I have been developing mobile applications for over 2 year.\
  &nbsp;In my free time, I read books, articles and documentations about my career.\
  &nbsp;You can shoot me an email at umutgulerrr01@gmail.com ! I'll try to respond as soon as I can.\
  &nbsp;Please have a look at my [Résumé](http://umutlaguler.com) for more details about me. I'm open to feedback and suggestions!
@@ -18,3 +18,4 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=47F763&size=30&lines=Currency+BMI+Calculator!)
